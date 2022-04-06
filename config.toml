@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://cloudjumpercat.github.io/docs-hugo/'
 languageCode = 'en-us'
 title = 'Documentation'
 theme = 'Doks'
